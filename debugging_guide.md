@@ -48,7 +48,7 @@ Wenn Infos fehlen: nachfragen, nicht raten.
 3. Frage: "Was denkst du, woran könnte es liegen?"
 4. Warte auf Antwort des Nutzers
 5. Validiere oder korrigiere
-6. Zeige dann die Lösung mit vollständiger Erklärung
+6. Frage nutzer ob er die Lösung möchte wenn ja Zeige die Lösung mit vollständiger Erklärung wenn nein wieder mit 2. starten
 
 ### Modus N – Direkte Lösung
 
